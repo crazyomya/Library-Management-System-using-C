@@ -23,5 +23,3 @@ This is a console-based library management system application designed for effic
 - **Paperless Operation**: This system significantly reduces the need for paper-based library management, contributing to environmental sustainability.
 
 ---
-
-Feel free to customize this README further with specific usage instructions or additional details about your project.
