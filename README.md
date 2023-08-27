@@ -1,6 +1,27 @@
-# Library-Management-System-using-C
-It is a console based library management system application that can be used to manage a library digitally. 
-It is programmed using C language.
-It has all basic functions such as to add book and reader, search book and reader, issuing and submitting a book, delete book and reader, and print list of all books in library. While issuing a book the reader will be checked if they have a book pending to submit. Also, the availability of a book is mentioned in book details.
-Main advantage of this project is that it makes it way easy to manage a library. Keeping track of the data is easy this way.
-It significantly helps in reducing the use of paper in library management.
+# Console-Based Library Management System in C
+
+This is a console-based library management system application designed for efficient digital library management. Developed using the C programming language, it offers essential features to streamline library operations.
+
+## Key Features
+
+- **Book and Reader Management**: Easily add and manage books and readers in the library database.
+
+- **Search Functionality**: Efficiently search for books and readers using various search criteria.
+
+- **Issuing and Submitting Books**: Facilitates the process of issuing and submitting books. It also checks if a reader has pending books to submit.
+
+- **Deletion**: Allows the removal of books and reader records when necessary.
+
+- **Listing Books**: Provides the ability to print a list of all books available in the library.
+
+- **Book Availability**: Displays the availability status of each book in the library's details.
+
+## Advantages
+
+- **Efficiency**: Simplifies library management, making it more efficient to keep track of library data.
+
+- **Paperless Operation**: This system significantly reduces the need for paper-based library management, contributing to environmental sustainability.
+
+---
+
+Feel free to customize this README further with specific usage instructions or additional details about your project.
